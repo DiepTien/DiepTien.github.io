@@ -9,7 +9,7 @@ date:   2017-6-16
 
 ### INDEX.HTML
 Cái sườn của trang
-VD:
+VD:{
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,4 +33,4 @@ VD:
   <a href="https://en.wikipedia.org/wiki/Brown_bear"target="_blank">Learn More</a>
 </body> 
 </html>
-  
+  }

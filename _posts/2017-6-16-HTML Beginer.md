@@ -8,6 +8,7 @@ date:   2017-6-16
 ---
 
 ### INDEX.HTML
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,3 +35,4 @@ date:   2017-6-16
   <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="A brown bear"/></a>
 </body> 
 </html>
+```

@@ -6,7 +6,7 @@ avatar: "img/tttt.jpg"
 image: "img/space.jpg"
 date:   2017-10-21
 ---
-...python
+```python
 import pygame
 from pygame.locals import *
 
@@ -295,4 +295,4 @@ main()
 pygame.time.get_ticks(30)
 pygame.quit()
 quit()
-...
+'''

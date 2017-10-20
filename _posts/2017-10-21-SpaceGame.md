@@ -295,4 +295,5 @@ main()
 pygame.time.get_ticks(30)
 pygame.quit()
 quit()
-'''
+```
+

@@ -3,7 +3,7 @@ title:  "Space"
 subtitle: "Game thực tế ít ảo"
 author: "Diệp"
 avatar: "img/tttt.jpg"
-image: "img/space.png"
+image: "img/space.jpg"
 date:   2017-10-21
 ---
 

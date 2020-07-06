@@ -1,6 +1,6 @@
 ---
 title:  "Space Game"
-subtitle: "Hãy tránh những khối hộp bay vào đầu, mà lỡ trúng cũng không phải băng bó. "
+subtitle: "Những khối hộp cứ bay vào mặt. Ngiêng người thử xem "
 author: "Diệp Tiến"
 avatar: "img/tttt.jpg"
 image: "img/spacegame/spacegame.png"

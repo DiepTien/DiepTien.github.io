@@ -1,9 +1,9 @@
 ---
-title:  "HTML"
-subtitle: "Ngôn ngữ lập trình web"
-author: "Diệp"
+title:  "Arm Robot 4 Dof"
+subtitle: "Những nguyên lý cơ bản về tính toán, điều khiển cánh tay robot"
+author: "Diệp Tiến"
 avatar: "img/tttt.jpg"
-image: "img/html.jpg"
+image: "img/armrobot/armrobot.png"
 date:   2017-6-16
 ---
 
